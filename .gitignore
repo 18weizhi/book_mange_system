@@ -1,0 +1,10 @@
+/gemini_google/
+/library_manage_system/
+/pyqt/
+/pyqt5/
+/pyqt5_demo/
+*.ui
+/test.py
+/untitled.py
+/lcd.py
+/.idea
